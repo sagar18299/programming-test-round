@@ -1,11 +1,11 @@
 # Inventory Management System
 
-A Node.js + Express + TypeScript application using TypeORM and PostgreSQL for managing inventory.
+A Node.js + Express + TypeScript application using MongoDB for managing inventory.
 
 ## Prerequisites
 
 - Node.js (v16+)
-- PostgreSQL
+- MongoDB
 - TypeScript
 
 ## Setup
@@ -13,7 +13,7 @@ A Node.js + Express + TypeScript application using TypeORM and PostgreSQL for ma
 1. Clone the repository:
 
    git clone <repository-url>
-   cd poc-test
+   
 
 2. Run the code
 
